@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    margin-top: 20px;
+  }
+  article {
+    flex: 2;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-right: 20px;
+  }
+  aside {
+    flex: 1;
+    background-color: #f9f9f9;
+    border: 1px solid #fc6262;
+    padding: 20px;
+    overflow-y: auto;
+  }
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+  }
