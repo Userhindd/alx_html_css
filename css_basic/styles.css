@@ -39,9 +39,10 @@ body {
   }
 
     footer {
-    background-color: #333;
+    background-color: rgb(69, 151, 124);
     color: white;
     padding: 10px;
     text-align: center;
     margin-top: 20px;
   }
+  
