@@ -29,13 +29,13 @@ body {
   aside {
     flex: 1;
     background-color: #f9f9f9;
-    border: 1px solid #fc6262;
+    border: 1px solid #141313;
     padding: 20px;
     overflow-y: auto;
   }
 
-  .main_header {
-    background-color: aquamarine;
+  #main_header {
+    background-color: rgb(69, 151, 124);
   }
 
     footer {
