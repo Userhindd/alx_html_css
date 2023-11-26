@@ -186,11 +186,12 @@
     list-style: none;
   }
   
-  .row{
+  .row {
     display: flex; 
   }
   
   [class*='col-'] {
+
     padding: 0.5rem;
   }
   
