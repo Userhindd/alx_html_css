@@ -179,19 +179,18 @@
   
   /* Grid
       ============================= */
-  
   ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
   }
   
-  .row {
-    display: flex; 
+  .row{
+    display: flex;
   }
   
   [class*='col-'] {
-
+    
     padding: 0.5rem;
   }
   
@@ -499,4 +498,3 @@
     font-size: 10rem;
     z-index: -1;
   }
-    
